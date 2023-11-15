@@ -7,7 +7,6 @@
 
 # testing
 /coverage
-/public/cards/composite
 
 # production
 /build
