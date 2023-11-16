@@ -1,0 +1,1084 @@
+{
+    "key": "Venom",
+    "url": "/cards/Venom/",
+    "power": 3,
+    "cost": 3,
+    "name": "Venom",
+    "description": "<b>On Reveal:</b> Destroy your other cards at this location. Add their Power\nto this card.",
+    "variants": [
+        {
+            "key": "Venom",
+            "cardDefKey": "Venom",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Venom-9f28751133d7f0717a975c73dfbbb6c1ad29da3be53a6c3d52271da11edbb3c8.webp",
+            "url": "/cards/Venom/Venom/",
+            "imageComponents": {
+                "foregroundScreenUrl": null,
+                "renderForegroundOverPowerCost": false,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Venom%2FVenom_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom%2FVenom_Background01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": -0.06
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom%2FVenom_Background02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom%2FVenom_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 3,
+            "power": 3,
+            "variantLabel": null,
+            "artVariantSourceDefKey": null,
+            "sourceLabel": "Series 3",
+            "isCardDefDisplayVariant": true,
+            "artists": [
+                {
+                    "id": 224,
+                    "name": "Jonboy Meyers",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 224,
+                    "name": "Jonboy Meyers",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": null,
+            "isObtainable": true
+        },
+        {
+            "key": "Venom_01",
+            "cardDefKey": "Venom",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Venom_01-2c737f4c62c2070634dc67bbe9f564c0d0885b9e73e6324355428c82f576fdb7.webp",
+            "url": "/cards/Venom/Venom_01/",
+            "imageComponents": {
+                "foregroundScreenUrl": null,
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Venom%2FVenom_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_01%2FVenom_01_Background_01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_01%2FVenom_01_Background_02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.06
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "override": {
+                        "layer": 1,
+                        "offset": {
+                            "x": 0,
+                            "y": 0.04
+                        },
+                        "scale": null,
+                        "objectFit": null,
+                        "rotate": null,
+                        "alpha": null
+                    }
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom_01%2FVenom_01_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 3,
+            "power": 3,
+            "variantLabel": "Pixel",
+            "artVariantSourceDefKey": "RareRarityPool",
+            "sourceLabel": "Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 161,
+                    "name": "G-Angle",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 161,
+                    "name": "G-Angle",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2022-05-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Venom_02",
+            "cardDefKey": "Venom",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Venom_02-1af40babc8d322f4eb6ee982fa64fc7ac228432bf60bfa0b2f46e8e1f086baa9.webp",
+            "url": "/cards/Venom/Venom_02/",
+            "imageComponents": {
+                "foregroundScreenUrl": null,
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Venom%2FVenom_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_02%2FVenom+-+%28Venom+%231+Stegman+Virgin+Variant%29_Background_01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_02%2FVenom+-+%28Venom+%231+Stegman+Virgin+Variant%29_Background_02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.09,
+                        "y": 0.05
+                    },
+                    "scale": {
+                        "x": 0.9,
+                        "y": 0.9
+                    },
+                    "override": {
+                        "layer": 1,
+                        "offset": {
+                            "x": 0.03,
+                            "y": 0
+                        },
+                        "scale": null,
+                        "objectFit": null,
+                        "rotate": null,
+                        "alpha": null
+                    }
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom_02%2FVenom_02_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 3,
+            "power": 3,
+            "variantLabel": null,
+            "artVariantSourceDefKey": "RareRarityPool",
+            "sourceLabel": "Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 53,
+                    "name": "Ryan Stegman",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 195,
+                    "name": "Frank Martin",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2022-05-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Venom_03",
+            "cardDefKey": "Venom",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Venom_03-24b59120474efe896f8c27e7530ce39bce1eafbcc5ee6bb1c26986ece4c7499c.webp",
+            "url": "/cards/Venom/Venom_03/",
+            "imageComponents": {
+                "foregroundScreenUrl": null,
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Venom%2FVenom_Logo.webp",
+                "isCompositeFoilMaskLayer2": true,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_03%2FVenom+-+%28Venom+%23150+%28Skottie+Young+Variant+Cover%29%29_Background_01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_03%2FVenom+-+%28Venom+%23150+%28Skottie+Young+Variant+Cover%29%29_Background_02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.105,
+                        "y": 0.1
+                    },
+                    "scale": {
+                        "x": 0.86,
+                        "y": 0.86
+                    },
+                    "override": {
+                        "layer": 1,
+                        "offset": {
+                            "x": 0.022,
+                            "y": 0.012
+                        },
+                        "scale": null,
+                        "objectFit": null,
+                        "rotate": null,
+                        "alpha": null
+                    }
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom_03%2FVenom_03_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 3,
+            "power": 3,
+            "variantLabel": "Baby",
+            "artVariantSourceDefKey": "RareRarityPool",
+            "sourceLabel": "Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 55,
+                    "name": "Skottie Young",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 55,
+                    "name": "Skottie Young",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2022-05-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Venom_04",
+            "cardDefKey": "Venom",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Venom_04-872a4e06f16f0249d5002da2a5f89fb42b68f3f4399cfc7696f5b72b51f1a3af.webp",
+            "url": "/cards/Venom/Venom_04/",
+            "imageComponents": {
+                "foregroundScreenUrl": null,
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Venom%2FVenom_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_04%2FVenom_04_Background01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_04%2FVenom_04_Background02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.12,
+                        "y": 0.06
+                    },
+                    "scale": {
+                        "x": 0.83,
+                        "y": 0.83
+                    },
+                    "override": {
+                        "layer": 1,
+                        "offset": {
+                            "x": 0.01,
+                            "y": -0.05
+                        },
+                        "scale": null,
+                        "objectFit": null,
+                        "rotate": null,
+                        "alpha": null
+                    }
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom_04%2FVenom_04_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 3,
+            "power": 3,
+            "variantLabel": null,
+            "artVariantSourceDefKey": "SuperRareRarityPool",
+            "sourceLabel": "Super Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 26,
+                    "name": "Kael Ngu",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 26,
+                    "name": "Kael Ngu",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2022-05-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Venom_05",
+            "cardDefKey": "Venom",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Venom_05-54bc6e0ae1ea42890d5920d9689bc6255ab3e4341a915d449ff7c2fa60af3df5.webp",
+            "url": "/cards/Venom/Venom_05/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom_05%2FVenom_05_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Venom%2FVenom_Logo.webp",
+                "isCompositeFoilMaskLayer2": true,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_05%2FVenom+-+Kim+Jacinto_Background_01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_05%2FVenom+-+Kim+Jacinto_Background_02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": -0.018,
+                        "y": -0.08
+                    },
+                    "scale": {
+                        "x": 0.93,
+                        "y": 0.93
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom_05%2FVenom_05_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 3,
+            "power": 3,
+            "variantLabel": "Kim Jacinto",
+            "artVariantSourceDefKey": "SuperRareRarityPool",
+            "sourceLabel": "Super Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 191,
+                    "name": "Kim Jacinto",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 191,
+                    "name": "Kim Jacinto",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2022-10-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Venom_06",
+            "cardDefKey": "Venom",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Venom_06-27a9312d465143df4a03a6fb6a51734b4c80263439b81c42abcc4c32dab7b40a.webp",
+            "url": "/cards/Venom/Venom_06/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom_06%2FVenom_06_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Venom%2FVenom_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_06%2FVenom_06_Background01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_06%2FVenom_06_Background02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.105
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.06,
+                        "y": 0.02
+                    },
+                    "scale": {
+                        "x": 0.85,
+                        "y": 0.85
+                    },
+                    "override": {
+                        "layer": 1,
+                        "offset": {
+                            "x": -0.021,
+                            "y": -0.068
+                        },
+                        "scale": null,
+                        "objectFit": null,
+                        "rotate": null,
+                        "alpha": null
+                    }
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom_06%2FVenom_06_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 3,
+            "power": 3,
+            "variantLabel": "Fiona Hsieh",
+            "artVariantSourceDefKey": "Bundle",
+            "sourceLabel": "Bundle",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 17,
+                    "name": "Fiona Hsieh",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 17,
+                    "name": "Fiona Hsieh",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2023-06-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Venom_07",
+            "cardDefKey": "Venom",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Venom_07-c02f452d114e815979483812d33507c763ae5332736bd53cf5272a5c93c2d61b.webp",
+            "url": "/cards/Venom/Venom_07/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom_07%2FVenom_07_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Venom%2FVenom_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_07%2FVenom+-+Venom+Vol+4+35+Lee+Exclusive+Virgin+Variant_Background_01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_07%2FVenom+-+Venom+Vol+4+35+Lee+Exclusive+Virgin+Variant_Background_02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.0,
+                        "y": -0.03
+                    },
+                    "scale": {
+                        "x": 0.9,
+                        "y": 0.9
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom_07%2FVenom_07_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 3,
+            "power": 3,
+            "variantLabel": null,
+            "artVariantSourceDefKey": "TokenShopUltimate",
+            "sourceLabel": "Ultimate",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 199,
+                    "name": "In-Hyuk Lee",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 199,
+                    "name": "In-Hyuk Lee",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2023-06-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Venom_08",
+            "cardDefKey": "Venom",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Venom_08-da3262bd6a211d96f798ed834b529fdcd880e703f4686f072511c193a676d90f.webp",
+            "url": "/cards/Venom/Venom_08/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom_08%2FVenom_08_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Venom%2FVenom_Logo.webp",
+                "isCompositeFoilMaskLayer2": true,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_08%2FVenom+-+Dan+Hipp_Background_01.webp",
+                            "scale": {
+                                "x": 0.75,
+                                "y": 0.75
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": -0.06
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_08%2FVenom+-+Dan+Hipp_Background_02.webp",
+                            "scale": {
+                                "x": 0.97,
+                                "y": 0.97
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": -0.048
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.01
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "override": {
+                        "layer": 1,
+                        "offset": {
+                            "x": 0.01,
+                            "y": 0.01
+                        },
+                        "scale": null,
+                        "objectFit": null,
+                        "rotate": null,
+                        "alpha": null
+                    }
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom_08%2FVenom_08_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 3,
+            "power": 3,
+            "variantLabel": "Dan Hipp",
+            "artVariantSourceDefKey": "RareRarityPool",
+            "sourceLabel": "Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 125,
+                    "name": "Dan Hipp",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 125,
+                    "name": "Dan Hipp",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2023-09-20T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Venom_09",
+            "cardDefKey": "Venom",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Venom_09-51b7d53dbf9b8ebfa0634cf5f6b229a01b4f6505502b10b07027ae052937eeb4.webp",
+            "url": "/cards/Venom/Venom_09/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom_09%2FVenom_09_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Venom%2FVenom_Logo.webp",
+                "isCompositeFoilMaskLayer2": true,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_09%2FVenom+-+Venom+Lethal+Protector+%231+Nakayama+Variant_Background_01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom_09%2FVenom+-+Venom+Lethal+Protector+%231+Nakayama+Variant_Background_02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": -0.027,
+                        "y": -0.11
+                    },
+                    "scale": {
+                        "x": 0.89,
+                        "y": 0.89
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom_09%2FVenom_09_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 3,
+            "power": 3,
+            "variantLabel": "Meal Time",
+            "artVariantSourceDefKey": null,
+            "sourceLabel": "Unknown",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 135,
+                    "name": "David Nakayama",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 135,
+                    "name": "David Nakayama",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "9999-12-31T23:59:59.999999Z",
+            "isObtainable": false
+        }
+    ],
+    "displayImageUrl": "https://game-assets.snap.fan/card_variant_images/Venom-9f28751133d7f0717a975c73dfbbb6c1ad29da3be53a6c3d52271da11edbb3c8.webp",
+    "displayVariant": {
+        "key": "Venom",
+        "cardDefKey": "Venom",
+        "imageUrl": "https://game-assets.snap.fan/card_variant_images/Venom-9f28751133d7f0717a975c73dfbbb6c1ad29da3be53a6c3d52271da11edbb3c8.webp",
+        "url": "/cards/Venom/Venom/",
+        "imageComponents": {
+            "foregroundScreenUrl": null,
+            "renderForegroundOverPowerCost": false,
+            "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Venom%2FVenom_Logo.webp",
+            "isCompositeFoilMaskLayer2": false,
+            "backgroundMaterial": {
+                "layers": [
+                    {
+                        "layerNumber": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom%2FVenom_Background01.webp",
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": -0.06
+                        },
+                        "alpha": 1.0,
+                        "angle": 0.0,
+                        "override": null
+                    },
+                    {
+                        "layerNumber": 2,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FVenom%2FVenom_Background02.webp",
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "alpha": 1.0,
+                        "angle": 0.0,
+                        "override": null
+                    }
+                ],
+                "angle": 0.0,
+                "offset": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "scale": {
+                    "x": 1.0,
+                    "y": 1.0
+                },
+                "override": null
+            },
+            "foregroundLayers": [
+                {
+                    "layerNum": 1,
+                    "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Venom%2FVenom_Foreground.webp"
+                }
+            ]
+        },
+        "cost": 3,
+        "power": 3,
+        "variantLabel": null,
+        "artVariantSourceDefKey": null,
+        "sourceLabel": "Series 3",
+        "isCardDefDisplayVariant": true,
+        "artists": [
+            {
+                "id": 224,
+                "name": "Jonboy Meyers",
+                "artistType": "Artist"
+            },
+            {
+                "id": 224,
+                "name": "Jonboy Meyers",
+                "artistType": "Colorist"
+            }
+        ],
+        "cardDefSeries": "Series3",
+        "abilityIds": [
+            1,
+            3,
+            17,
+            23
+        ],
+        "releaseDate": null,
+        "isObtainable": true
+    },
+    "isCollectable": true,
+    "isReleased": true,
+    "abilities": [
+        {
+            "id": 1,
+            "name": "On Reveal",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "name": "Destroy",
+            "description": ""
+        },
+        {
+            "id": 17,
+            "name": "Power On Destroy",
+            "description": ""
+        },
+        {
+            "id": 23,
+            "name": "Increase Power",
+            "description": ""
+        }
+    ],
+    "category": "Spider-Villains",
+    "primaryColor": "#0903e3",
+    "secondaryColor": "#080955",
+    "ringColor": "#ff0913",
+    "startsInHand": false,
+    "turnDrawn": null,
+    "cardsShuffledIntoDeck": [],
+    "seriesDefKey": "Series3",
+    "seriesLabel": "Series 3 (Collection Level 486+)",
+    "shortSeriesLabel": "Series 3"
+}

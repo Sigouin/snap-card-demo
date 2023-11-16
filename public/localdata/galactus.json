@@ -1,0 +1,731 @@
+{
+  "key": "Galactus",
+  "url": "/cards/Galactus/",
+  "power": 5,
+  "cost": 6,
+  "name": "Galactus",
+  "description": "<b>On Reveal:</b> If you're winning this location and this is your only card here, destroy all other locations.",
+  "variants": [
+    {
+      "key": "Galactus",
+      "cardDefKey": "Galactus",
+      "imageUrl": "https://game-assets.snap.fan/card_variant_images/Galactus-c75f8a00acb53d146eabf4730775d149d552067c07012cf750099ec7050ca2fe.webp",
+      "url": "/cards/Galactus/Galactus/",
+      "imageComponents": {
+        "foregroundScreenUrl": null,
+        "renderForegroundOverPowerCost": true,
+        "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Galactus%2FGalactus_Logo.webp",
+        "isCompositeFoilMaskLayer2": false,
+        "backgroundMaterial": {
+          "layers": [
+            {
+              "layerNumber": 1,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus%2FGalactus_Background01.webp",
+              "scale": { "x": 1.0, "y": 1.0 },
+              "offset": { "x": 0.0, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            },
+            {
+              "layerNumber": 2,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus%2FGalactus_Background02.webp",
+              "scale": { "x": 1.0, "y": 1.0 },
+              "offset": { "x": 0.0, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            }
+          ],
+          "angle": 0.0,
+          "offset": { "x": 0.0, "y": -0.02 },
+          "scale": { "x": 1.0, "y": 1.0 },
+          "override": null
+        },
+        "foregroundLayers": [
+          {
+            "layerNum": 1,
+            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus%2FGalactus_Foreground.webp"
+          }
+        ]
+      },
+      "cost": 6,
+      "power": 5,
+      "variantLabel": null,
+      "artVariantSourceDefKey": null,
+      "sourceLabel": "Series 5",
+      "isCardDefDisplayVariant": true,
+      "artists": [
+        { "id": 38, "name": "Ryan Kinnaird", "artistType": "Colorist" },
+        { "id": 230, "name": "Joverine", "artistType": "Artist" }
+      ],
+      "cardDefSeries": "Series5",
+      "abilityIds": [1, 35],
+      "releaseDate": null,
+      "isObtainable": true
+    },
+    {
+      "key": "Galactus_01",
+      "cardDefKey": "Galactus",
+      "imageUrl": "https://game-assets.snap.fan/card_variant_images/Galactus_01-15b0ad2b339efe8e44a3033695e165aa42bfcbeb7606305f4f94c35109812860.webp",
+      "url": "/cards/Galactus/Galactus_01/",
+      "imageComponents": {
+        "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_01%2FGalactus_01_ForegroundScreen.webp",
+        "renderForegroundOverPowerCost": true,
+        "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Galactus%2FGalactus_Logo.webp",
+        "isCompositeFoilMaskLayer2": false,
+        "backgroundMaterial": {
+          "layers": [
+            {
+              "layerNumber": 1,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_01%2FGalactus_01_Background_01.webp",
+              "scale": { "x": 1.0, "y": 1.0 },
+              "offset": { "x": 0.0, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            },
+            {
+              "layerNumber": 2,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_01%2FGalactus_01_Background_02.webp",
+              "scale": { "x": 1.0, "y": 1.0 },
+              "offset": { "x": 0.0, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            }
+          ],
+          "angle": 0.0,
+          "offset": { "x": 0.0, "y": 0.0 },
+          "scale": { "x": 1.0, "y": 1.0 },
+          "override": null
+        },
+        "foregroundLayers": [
+          {
+            "layerNum": 1,
+            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_01%2FGalactus_01_Foreground.webp"
+          }
+        ]
+      },
+      "cost": 6,
+      "power": 5,
+      "variantLabel": "Pixel",
+      "artVariantSourceDefKey": "RareRarityPool",
+      "sourceLabel": "Rare Pool",
+      "isCardDefDisplayVariant": false,
+      "artists": [
+        { "id": 161, "name": "G-Angle", "artistType": "Artist" },
+        { "id": 161, "name": "G-Angle", "artistType": "Colorist" }
+      ],
+      "cardDefSeries": "Series5",
+      "abilityIds": [1, 35],
+      "releaseDate": "2023-11-04T19:00:00Z",
+      "isObtainable": false
+    },
+    {
+      "key": "Galactus_02",
+      "cardDefKey": "Galactus",
+      "imageUrl": "https://game-assets.snap.fan/card_variant_images/Galactus_02-e7b2d672761755a1d1820a5561662ae658a830f947537702ec661f302ebee374.webp",
+      "url": "/cards/Galactus/Galactus_02/",
+      "imageComponents": {
+        "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_02%2FGalactus_02_ForegroundScreen.webp",
+        "renderForegroundOverPowerCost": true,
+        "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Galactus%2FGalactus_Logo.webp",
+        "isCompositeFoilMaskLayer2": false,
+        "backgroundMaterial": {
+          "layers": [
+            {
+              "layerNumber": 1,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_02%2FGalactus+-+%28Ultimates+Vol+3+6+Textless%29_Background01.webp",
+              "scale": { "x": 0.85, "y": 0.85 },
+              "offset": { "x": 0.03, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            },
+            {
+              "layerNumber": 2,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_02%2FGalactus+-+%28Ultimates+Vol+3+6+Textless%29_Background02.webp",
+              "scale": { "x": 1.0, "y": 1.0 },
+              "offset": { "x": 0.0, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            }
+          ],
+          "angle": 0.0,
+          "offset": { "x": 0.0, "y": 0.0 },
+          "scale": { "x": 1.0, "y": 1.0 },
+          "override": null
+        },
+        "foregroundLayers": [
+          {
+            "layerNum": 1,
+            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_02%2FGalactus_02_Foreground.webp"
+          }
+        ]
+      },
+      "cost": 6,
+      "power": 5,
+      "variantLabel": "Lifebringer",
+      "artVariantSourceDefKey": "RareRarityPool",
+      "sourceLabel": "Rare Pool",
+      "isCardDefDisplayVariant": false,
+      "artists": [
+        { "id": 91, "name": "Kenneth Rocafort", "artistType": "Artist" },
+        { "id": 91, "name": "Kenneth Rocafort", "artistType": "Colorist" }
+      ],
+      "cardDefSeries": "Series5",
+      "abilityIds": [1, 35],
+      "releaseDate": "2022-05-07T19:00:00Z",
+      "isObtainable": true
+    },
+    {
+      "key": "Galactus_03",
+      "cardDefKey": "Galactus",
+      "imageUrl": "https://game-assets.snap.fan/card_variant_images/Galactus_03-7878a5584620113aed41fe4764ff738396cf8d3f37769d560d42f214c07979fd.webp",
+      "url": "/cards/Galactus/Galactus_03/",
+      "imageComponents": {
+        "foregroundScreenUrl": null,
+        "renderForegroundOverPowerCost": false,
+        "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Galactus%2FGalactus_Logo.webp",
+        "isCompositeFoilMaskLayer2": true,
+        "backgroundMaterial": {
+          "layers": [
+            {
+              "layerNumber": 1,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_03%2FGalactus_03_Background01.webp",
+              "scale": { "x": 0.8, "y": 0.8 },
+              "offset": { "x": 0.0, "y": 0.11 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": {
+                "layer": 1,
+                "offset": { "x": -0.098, "y": -0.29 },
+                "scale": null,
+                "objectFit": null,
+                "rotate": null,
+                "alpha": null
+              }
+            },
+            {
+              "layerNumber": 2,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_03%2FGalactus_03_Background02.webp",
+              "scale": { "x": 1.66, "y": 1.59 },
+              "offset": { "x": 0.0, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            }
+          ],
+          "angle": 0.0,
+          "offset": { "x": 0.05, "y": -0.16 },
+          "scale": { "x": 1.0, "y": 1.0 },
+          "override": {
+            "layer": 1,
+            "offset": { "x": 0.05, "y": 0.186 },
+            "scale": null,
+            "objectFit": null,
+            "rotate": null,
+            "alpha": null
+          }
+        },
+        "foregroundLayers": [
+          {
+            "layerNum": 1,
+            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_03%2FGalactus_03_Foreground.webp"
+          }
+        ]
+      },
+      "cost": 6,
+      "power": 5,
+      "variantLabel": "Baby",
+      "artVariantSourceDefKey": "RareRarityPool",
+      "sourceLabel": "Rare Pool",
+      "isCardDefDisplayVariant": false,
+      "artists": [
+        { "id": 55, "name": "Skottie Young", "artistType": "Artist" },
+        { "id": 55, "name": "Skottie Young", "artistType": "Colorist" }
+      ],
+      "cardDefSeries": "Series5",
+      "abilityIds": [1, 35],
+      "releaseDate": "2022-05-07T19:00:00Z",
+      "isObtainable": true
+    },
+    {
+      "key": "Galactus_04",
+      "cardDefKey": "Galactus",
+      "imageUrl": "https://game-assets.snap.fan/card_variant_images/Galactus_04-47ac3deec667cd3008d4a31e4c37427d82bd5d777b8871d72be2117241dbec87.webp",
+      "url": "/cards/Galactus/Galactus_04/",
+      "imageComponents": {
+        "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_04%2FGalactus_04_ForegroundScreen.webp",
+        "renderForegroundOverPowerCost": true,
+        "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Galactus%2FGalactus_Logo.webp",
+        "isCompositeFoilMaskLayer2": false,
+        "backgroundMaterial": {
+          "layers": [
+            {
+              "layerNumber": 1,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_04%2FGalactus_04_Background01.webp",
+              "scale": { "x": 0.97, "y": 0.97 },
+              "offset": { "x": 0.0, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            }
+          ],
+          "angle": 0.0,
+          "offset": { "x": 0.0, "y": -0.02 },
+          "scale": { "x": 1.0, "y": 1.0 },
+          "override": null
+        },
+        "foregroundLayers": [
+          {
+            "layerNum": 1,
+            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_04%2FGalactus_04_Foreground.webp"
+          }
+        ]
+      },
+      "cost": 6,
+      "power": 5,
+      "variantLabel": null,
+      "artVariantSourceDefKey": "RareRarityPool",
+      "sourceLabel": "Rare Pool",
+      "isCardDefDisplayVariant": false,
+      "artists": [
+        { "id": 141, "name": "Adi Granov", "artistType": "Artist" },
+        { "id": 141, "name": "Adi Granov", "artistType": "Colorist" }
+      ],
+      "cardDefSeries": "Series5",
+      "abilityIds": [1, 35],
+      "releaseDate": "2022-05-07T19:00:00Z",
+      "isObtainable": true
+    },
+    {
+      "key": "Galactus_05",
+      "cardDefKey": "Galactus",
+      "imageUrl": "https://game-assets.snap.fan/card_variant_images/Galactus_05-fa61e9f491d73f78903956f5e3f396be0cbaff1a46f907d5657233c9c846a5ee.webp",
+      "url": "/cards/Galactus/Galactus_05/",
+      "imageComponents": {
+        "foregroundScreenUrl": null,
+        "renderForegroundOverPowerCost": true,
+        "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Galactus%2FGalactus_Logo.webp",
+        "isCompositeFoilMaskLayer2": false,
+        "backgroundMaterial": {
+          "layers": [
+            {
+              "layerNumber": 1,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_05%2FGalactus_05_Background01.webp",
+              "scale": { "x": 1.0, "y": 1.0 },
+              "offset": { "x": 0.0, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            },
+            {
+              "layerNumber": 2,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_05%2FGalactus_05_Background02.webp",
+              "scale": { "x": 1.1, "y": 1.1 },
+              "offset": { "x": -0.053, "y": -0.05 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            }
+          ],
+          "angle": 0.0,
+          "offset": { "x": 0.025, "y": 0.0 },
+          "scale": { "x": 0.9, "y": 0.9 },
+          "override": null
+        },
+        "foregroundLayers": [
+          {
+            "layerNum": 1,
+            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_05%2FGalactus_05_Foreground.webp"
+          }
+        ]
+      },
+      "cost": 6,
+      "power": 5,
+      "variantLabel": "Flaviano",
+      "artVariantSourceDefKey": "SuperRareRarityPool",
+      "sourceLabel": "Super Rare Pool",
+      "isCardDefDisplayVariant": false,
+      "artists": [
+        { "id": 16, "name": "Flaviano", "artistType": "Artist" },
+        { "id": 16, "name": "Flaviano", "artistType": "Colorist" }
+      ],
+      "cardDefSeries": "Series5",
+      "abilityIds": [1, 35],
+      "releaseDate": "2022-12-07T19:00:00Z",
+      "isObtainable": true
+    },
+    {
+      "key": "Galactus_06",
+      "cardDefKey": "Galactus",
+      "imageUrl": "https://game-assets.snap.fan/card_variant_images/Galactus_06-763b9865571e65468cfa50938cf5eab3d7788d1c43de45cf6a6ac8eb5699e634.webp",
+      "url": "/cards/Galactus/Galactus_06/",
+      "imageComponents": {
+        "foregroundScreenUrl": null,
+        "renderForegroundOverPowerCost": true,
+        "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Galactus%2FGalactus_Logo.webp",
+        "isCompositeFoilMaskLayer2": true,
+        "backgroundMaterial": {
+          "layers": [
+            {
+              "layerNumber": 1,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_06%2FGalactus-Chibi_Background_01.webp",
+              "scale": { "x": 1.0, "y": 1.0 },
+              "offset": { "x": 0.0, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            },
+            {
+              "layerNumber": 2,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_06%2FGalactus-Chibi_Background_02.webp",
+              "scale": { "x": 1.0, "y": 1.0 },
+              "offset": { "x": 0.0, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            }
+          ],
+          "angle": 0.0,
+          "offset": { "x": 0.0127, "y": -0.123 },
+          "scale": { "x": 0.9, "y": 0.9 },
+          "override": null
+        },
+        "foregroundLayers": [
+          {
+            "layerNum": 1,
+            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_06%2FGalactus_06_Foreground.webp"
+          }
+        ]
+      },
+      "cost": 6,
+      "power": 5,
+      "variantLabel": "Chibi",
+      "artVariantSourceDefKey": null,
+      "sourceLabel": "Unknown",
+      "isCardDefDisplayVariant": false,
+      "artists": [
+        { "id": 161, "name": "G-Angle", "artistType": "Artist" },
+        { "id": 161, "name": "G-Angle", "artistType": "Colorist" }
+      ],
+      "cardDefSeries": "Series5",
+      "abilityIds": [1, 35],
+      "releaseDate": "9999-12-31T23:59:59.999999Z",
+      "isObtainable": false
+    },
+    {
+      "key": "Galactus_07",
+      "cardDefKey": "Galactus",
+      "imageUrl": "https://game-assets.snap.fan/card_variant_images/Galactus_07-d0b7b1cc756cdc0cf33c0ef814de0d143494376b04562ab9030cf699c2026094.webp",
+      "url": "/cards/Galactus/Galactus_07/",
+      "imageComponents": {
+        "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_07%2FGalactus_07_ForegroundScreen.webp",
+        "renderForegroundOverPowerCost": true,
+        "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Galactus%2FGalactus_Logo.webp",
+        "isCompositeFoilMaskLayer2": true,
+        "backgroundMaterial": {
+          "layers": [
+            {
+              "layerNumber": 1,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_07%2FGalactus+-+Kim+Jacinto_Background_01.webp",
+              "scale": { "x": 1.0, "y": 1.0 },
+              "offset": { "x": 0.0, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            },
+            {
+              "layerNumber": 2,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_07%2FGalactus+-+Kim+Jacinto_Background_02.webp",
+              "scale": { "x": 1.0, "y": 1.0 },
+              "offset": { "x": 0.0, "y": 0.112 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            }
+          ],
+          "angle": 0.0,
+          "offset": { "x": 0.0, "y": -0.088 },
+          "scale": { "x": 1.058, "y": 1.058 },
+          "override": null
+        },
+        "foregroundLayers": [
+          {
+            "layerNum": 1,
+            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_07%2FGalactus_07_Foreground.webp"
+          }
+        ]
+      },
+      "cost": 6,
+      "power": 5,
+      "variantLabel": "Kim Jacinto",
+      "artVariantSourceDefKey": "SpotlightCache",
+      "sourceLabel": "Unknown",
+      "isCardDefDisplayVariant": false,
+      "artists": [
+        { "id": 191, "name": "Kim Jacinto", "artistType": "Artist" },
+        { "id": 191, "name": "Kim Jacinto", "artistType": "Colorist" }
+      ],
+      "cardDefSeries": "Series5",
+      "abilityIds": [1, 35],
+      "releaseDate": "2023-08-07T19:00:00Z",
+      "isObtainable": true
+    },
+    {
+      "key": "Galactus_08",
+      "cardDefKey": "Galactus",
+      "imageUrl": "https://game-assets.snap.fan/card_variant_images/Galactus_08-d89a418cdaab18c8c2f7200525129d02f962c2facfba18cb28835d8edeff2a8a.webp",
+      "url": "/cards/Galactus/Galactus_08/",
+      "imageComponents": {
+        "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_08%2FGalactus_08_ForegroundScreen.webp",
+        "renderForegroundOverPowerCost": true,
+        "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Galactus%2FGalactus_Logo.webp",
+        "isCompositeFoilMaskLayer2": true,
+        "backgroundMaterial": {
+          "layers": [
+            {
+              "layerNumber": 1,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_08%2FGalactus+-+Dan+Hipp_Background_01.webp",
+              "scale": { "x": 0.8, "y": 0.8 },
+              "offset": { "x": 0.0, "y": 0.08 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            },
+            {
+              "layerNumber": 2,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_08%2FGalactus+-+Dan+Hipp_Background_02.webp",
+              "scale": { "x": 1.0, "y": 1.0 },
+              "offset": { "x": 0.0, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            }
+          ],
+          "angle": 0.0,
+          "offset": { "x": 0.0, "y": -0.065 },
+          "scale": { "x": 1.08, "y": 1.08 },
+          "override": null
+        },
+        "foregroundLayers": [
+          {
+            "layerNum": 1,
+            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_08%2FGalactus_08_Foreground.webp"
+          }
+        ]
+      },
+      "cost": 6,
+      "power": 5,
+      "variantLabel": "Dan Hipp",
+      "artVariantSourceDefKey": "RareRarityPool",
+      "sourceLabel": "Rare Pool",
+      "isCardDefDisplayVariant": false,
+      "artists": [
+        { "id": 125, "name": "Dan Hipp", "artistType": "Artist" },
+        { "id": 125, "name": "Dan Hipp", "artistType": "Colorist" }
+      ],
+      "cardDefSeries": "Series5",
+      "abilityIds": [1, 35],
+      "releaseDate": "2023-09-20T19:00:00Z",
+      "isObtainable": true
+    },
+    {
+      "key": "Galactus_11",
+      "cardDefKey": "Galactus",
+      "imageUrl": "https://game-assets.snap.fan/card_variant_images/Galactus_11-cea6119e9f689eeb41a6f3c04686df12983fb18f97eb6fbba9843856bbfdfdd5.webp",
+      "url": "/cards/Galactus/Galactus_11/",
+      "imageComponents": {
+        "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_11%2FGalactus_11_ForegroundScreen.webp",
+        "renderForegroundOverPowerCost": true,
+        "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Galactus%2FGalactus_Logo.webp",
+        "isCompositeFoilMaskLayer2": true,
+        "backgroundMaterial": {
+          "layers": [
+            {
+              "layerNumber": 1,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_11%2FGalactus+-+The+Judgement_Background_01.webp",
+              "scale": { "x": 1.0, "y": 0.95 },
+              "offset": { "x": 0.0, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            },
+            {
+              "layerNumber": 2,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_11%2FGalactus+-+The+Judgement_Background_02.webp",
+              "scale": { "x": 1.0, "y": 0.95 },
+              "offset": { "x": 0.0, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            }
+          ],
+          "angle": 0.0,
+          "offset": { "x": 0.002, "y": -0.025 },
+          "scale": { "x": 1.01, "y": 1.01 },
+          "override": null
+        },
+        "foregroundLayers": [
+          {
+            "layerNum": 1,
+            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_11%2FGalactus_11_Foreground.webp"
+          }
+        ]
+      },
+      "cost": 6,
+      "power": 5,
+      "variantLabel": "Midnight Suns",
+      "artVariantSourceDefKey": "SuperRareRarityPool",
+      "sourceLabel": "Super Rare Pool",
+      "isCardDefDisplayVariant": false,
+      "artists": [
+        {
+          "id": 310,
+          "name": "Daniela Zeman & Steve Ogden",
+          "artistType": "Artist"
+        }
+      ],
+      "cardDefSeries": "Series5",
+      "abilityIds": [1, 35],
+      "releaseDate": "2023-10-11T19:00:00Z",
+      "isObtainable": true
+    },
+    {
+      "key": "Galactus_12",
+      "cardDefKey": "Galactus",
+      "imageUrl": "https://game-assets.snap.fan/card_variant_images/Galactus_12-f74836486a3dbf962be27c3f35769bec3e79312b2c412d8da66aa2b342839cbf.webp",
+      "url": "/cards/Galactus/Galactus_12/",
+      "imageComponents": {
+        "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_12%2FGalactus_12_ForegroundScreen.webp",
+        "renderForegroundOverPowerCost": true,
+        "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Galactus%2FGalactus_Logo.webp",
+        "isCompositeFoilMaskLayer2": true,
+        "backgroundMaterial": {
+          "layers": [
+            {
+              "layerNumber": 1,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_12%2FGalactus+-+FANTASTIC+FOUR+%23210+In+Search+of+Galactus+%28Fantastic+Four%29_Background_01.webp",
+              "scale": { "x": 1.0, "y": 0.95 },
+              "offset": { "x": 0.0, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            },
+            {
+              "layerNumber": 2,
+              "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus_12%2FGalactus+-+FANTASTIC+FOUR+%23210+In+Search+of+Galactus+%28Fantastic+Four%29_Background_02.webp",
+              "scale": { "x": 1.0, "y": 0.95 },
+              "offset": { "x": 0.016, "y": 0.0 },
+              "alpha": 1.0,
+              "angle": 0.0,
+              "override": null
+            }
+          ],
+          "angle": 0.0,
+          "offset": { "x": 0.005, "y": -0.005 },
+          "scale": { "x": 0.96, "y": 0.96 },
+          "override": null
+        },
+        "foregroundLayers": [
+          {
+            "layerNum": 1,
+            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus_12%2FGalactus_12_Foreground.webp"
+          }
+        ]
+      },
+      "cost": 6,
+      "power": 5,
+      "variantLabel": "Bronze Age",
+      "artVariantSourceDefKey": "SpotlightCache",
+      "sourceLabel": "Unknown",
+      "isCardDefDisplayVariant": false,
+      "artists": [
+        { "id": 323, "name": "Keith Pollard", "artistType": "Artist" },
+        { "id": 337, "name": "Ben Sean", "artistType": "Colorist" }
+      ],
+      "cardDefSeries": "Series5",
+      "abilityIds": [1, 35],
+      "releaseDate": "2024-01-09T19:00:00Z",
+      "isObtainable": false
+    }
+  ],
+  "displayImageUrl": "https://game-assets.snap.fan/card_variant_images/Galactus-c75f8a00acb53d146eabf4730775d149d552067c07012cf750099ec7050ca2fe.webp",
+  "displayVariant": {
+    "key": "Galactus",
+    "cardDefKey": "Galactus",
+    "imageUrl": "https://game-assets.snap.fan/card_variant_images/Galactus-c75f8a00acb53d146eabf4730775d149d552067c07012cf750099ec7050ca2fe.webp",
+    "url": "/cards/Galactus/Galactus/",
+    "imageComponents": {
+      "foregroundScreenUrl": null,
+      "renderForegroundOverPowerCost": true,
+      "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Galactus%2FGalactus_Logo.webp",
+      "isCompositeFoilMaskLayer2": false,
+      "backgroundMaterial": {
+        "layers": [
+          {
+            "layerNumber": 1,
+            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus%2FGalactus_Background01.webp",
+            "scale": { "x": 1.0, "y": 1.0 },
+            "offset": { "x": 0.0, "y": 0.0 },
+            "alpha": 1.0,
+            "angle": 0.0,
+            "override": null
+          },
+          {
+            "layerNumber": 2,
+            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FGalactus%2FGalactus_Background02.webp",
+            "scale": { "x": 1.0, "y": 1.0 },
+            "offset": { "x": 0.0, "y": 0.0 },
+            "alpha": 1.0,
+            "angle": 0.0,
+            "override": null
+          }
+        ],
+        "angle": 0.0,
+        "offset": { "x": 0.0, "y": -0.02 },
+        "scale": { "x": 1.0, "y": 1.0 },
+        "override": null
+      },
+      "foregroundLayers": [
+        {
+          "layerNum": 1,
+          "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Galactus%2FGalactus_Foreground.webp"
+        }
+      ]
+    },
+    "cost": 6,
+    "power": 5,
+    "variantLabel": null,
+    "artVariantSourceDefKey": null,
+    "sourceLabel": "Series 5",
+    "isCardDefDisplayVariant": true,
+    "artists": [
+      { "id": 38, "name": "Ryan Kinnaird", "artistType": "Colorist" },
+      { "id": 230, "name": "Joverine", "artistType": "Artist" }
+    ],
+    "cardDefSeries": "Series5",
+    "abilityIds": [1, 35],
+    "releaseDate": null,
+    "isObtainable": true
+  },
+  "isCollectable": true,
+  "isReleased": true,
+  "abilities": [
+    { "id": 1, "name": "On Reveal", "description": "" },
+    { "id": 35, "name": "Destroy Location", "description": "" }
+  ],
+  "category": "Ultimate Power",
+  "primaryColor": "#cb00ff",
+  "secondaryColor": "#0200ff",
+  "ringColor": "#5500ff",
+  "startsInHand": false,
+  "turnDrawn": null,
+  "cardsShuffledIntoDeck": [],
+  "seriesDefKey": "Series5",
+  "seriesLabel": "Series 5",
+  "shortSeriesLabel": "Series 5"
+}

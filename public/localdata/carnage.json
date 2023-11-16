@@ -1,0 +1,1148 @@
+{
+    "key": "Carnage",
+    "url": "/cards/Carnage/",
+    "power": 2,
+    "cost": 2,
+    "name": "Carnage",
+    "description": "<b>On Reveal:</b> Destroy your other cards here. +2 Power for each destroyed.",
+    "variants": [
+        {
+            "key": "Carnage",
+            "cardDefKey": "Carnage",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Carnage-a55f3c533f794a9b76093732471be216d84c89f178805970f92bb02eb5c127db.webp",
+            "url": "/cards/Carnage/Carnage/",
+            "imageComponents": {
+                "foregroundScreenUrl": null,
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Carnage%2FCarnage_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage%2FCarnage_Background02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": -0.03
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage%2FCarnage_Background01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "scale": {
+                        "x": 0.97,
+                        "y": 0.97
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage%2FCarnage_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 2,
+            "power": 2,
+            "variantLabel": null,
+            "artVariantSourceDefKey": null,
+            "sourceLabel": "Series 1",
+            "isCardDefDisplayVariant": true,
+            "artists": [
+                {
+                    "id": 24,
+                    "name": "Ryan Benjamin",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 38,
+                    "name": "Ryan Kinnaird",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series1",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": null,
+            "isObtainable": true
+        },
+        {
+            "key": "Carnage_01",
+            "cardDefKey": "Carnage",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Carnage_01-df071e43b1d37122f195cafa62169959c580f212043e459328d9edc054355095.webp",
+            "url": "/cards/Carnage/Carnage_01/",
+            "imageComponents": {
+                "foregroundScreenUrl": null,
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Carnage%2FCarnage_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_01%2FCarnage_01_Background_01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_01%2FCarnage_01_Background_02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": -0.02,
+                        "y": -0.04
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_01%2FCarnage_01_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 2,
+            "power": 2,
+            "variantLabel": "Pixel",
+            "artVariantSourceDefKey": "RareRarityPool",
+            "sourceLabel": "Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 161,
+                    "name": "G-Angle",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 161,
+                    "name": "G-Angle",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series1",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2022-05-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Carnage_02",
+            "cardDefKey": "Carnage",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Carnage_02-1f410a3f4523e31ba7ae19287ea856b6c3502c41c81c732f45b5ea0a9e368e2b.webp",
+            "url": "/cards/Carnage/Carnage_02/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_02%2FCarnage_02_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Carnage%2FCarnage_Logo.webp",
+                "isCompositeFoilMaskLayer2": true,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_02%2FCarnage+-+%28Absolute+Carnage+%231+Artgerm+Variant%29_Background_01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_02%2FCarnage+-+%28Absolute+Carnage+%231+Artgerm+Variant%29_Background_02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.05,
+                        "y": -0.01
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_02%2FCarnage_02_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 2,
+            "power": 2,
+            "variantLabel": "Artgerm",
+            "artVariantSourceDefKey": "SuperRareRarityPool",
+            "sourceLabel": "Super Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 94,
+                    "name": "Artgerm",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 94,
+                    "name": "Artgerm",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series1",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2022-05-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Carnage_03",
+            "cardDefKey": "Carnage",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Carnage_03-7e25c521a07aaa58897a2b8c948fbdea2a695c2097affcfb62b2faa0c20b22bc.webp",
+            "url": "/cards/Carnage/Carnage_03/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_03%2FCarnage_03_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": false,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Carnage%2FCarnage_Logo.webp",
+                "isCompositeFoilMaskLayer2": true,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_03%2FCarnage_03_Background01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_03%2FCarnage_03_Background02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_03%2FCarnage_03_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 2,
+            "power": 2,
+            "variantLabel": "Max Grecke",
+            "artVariantSourceDefKey": "RareRarityPool",
+            "sourceLabel": "Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 223,
+                    "name": "Max Grecke",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 223,
+                    "name": "Max Grecke",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series1",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2022-05-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Carnage_04",
+            "cardDefKey": "Carnage",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Carnage_04-acd58c22cefeef08a5744c6b641d09cca4440fbbcdf2a28d4a406cb680b06587.webp",
+            "url": "/cards/Carnage/Carnage_04/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_04%2FCarnage_04_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Carnage%2FCarnage_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_04%2FCarnage_04_Background01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_04%2FCarnage_04_Background02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_04%2FCarnage_04_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 2,
+            "power": 2,
+            "variantLabel": null,
+            "artVariantSourceDefKey": "RareRarityPool",
+            "sourceLabel": "Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 87,
+                    "name": "Mark Bagley",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 109,
+                    "name": "Jason Keith",
+                    "artistType": "Colorist"
+                },
+                {
+                    "id": 242,
+                    "name": "Andrew Hennessy",
+                    "artistType": "Inker"
+                }
+            ],
+            "cardDefSeries": "Series1",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2022-05-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Carnage_05",
+            "cardDefKey": "Carnage",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Carnage_05-3c60e4e98c6d9b78b996779f1aa1c4a7cf8aaa3b10ca160832ad8fcd10d72cdd.webp",
+            "url": "/cards/Carnage/Carnage_05/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_05%2FCarnage_05_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Carnage%2FCarnage_Logo.webp",
+                "isCompositeFoilMaskLayer2": true,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_05%2FCarnage+-+Kim+Jacinto_Background_01.webp",
+                            "scale": {
+                                "x": 0.95,
+                                "y": 0.95
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_05%2FCarnage+-+Kim+Jacinto_Background_02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.005,
+                        "y": -0.16
+                    },
+                    "scale": {
+                        "x": 0.79,
+                        "y": 0.79
+                    },
+                    "override": {
+                        "layer": 1,
+                        "offset": {
+                            "x": 0.009,
+                            "y": -0.134
+                        },
+                        "scale": null,
+                        "objectFit": null,
+                        "rotate": null,
+                        "alpha": null
+                    }
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_05%2FCarnage_05_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 2,
+            "power": 2,
+            "variantLabel": "Kim Jacinto",
+            "artVariantSourceDefKey": "SeasonPass",
+            "sourceLabel": "Unknown",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 191,
+                    "name": "Kim Jacinto",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 191,
+                    "name": "Kim Jacinto",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series1",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2022-10-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Carnage_06",
+            "cardDefKey": "Carnage",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Carnage_06-ef9eff80cef1a67a70f41fffa9e77c2f75e39120c0c3b975571975ed26585fda.webp",
+            "url": "/cards/Carnage/Carnage_06/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_06%2FCarnage_06_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Carnage%2FCarnage_Logo.webp",
+                "isCompositeFoilMaskLayer2": true,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_06%2FCarnage_06_Background01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_06%2FCarnage_06_Background02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.24,
+                        "y": 0.24
+                    },
+                    "scale": {
+                        "x": 0.69,
+                        "y": 0.69
+                    },
+                    "override": {
+                        "layer": 1,
+                        "offset": {
+                            "x": 0.007,
+                            "y": 0.008
+                        },
+                        "scale": null,
+                        "objectFit": null,
+                        "rotate": null,
+                        "alpha": null
+                    }
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_06%2FCarnage_06_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 2,
+            "power": 2,
+            "variantLabel": null,
+            "artVariantSourceDefKey": null,
+            "sourceLabel": "Unknown",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 65,
+                    "name": "Nick Bradshaw",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 229,
+                    "name": "Morry Hollowell",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series1",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "9999-12-31T23:59:59.999999Z",
+            "isObtainable": false
+        },
+        {
+            "key": "Carnage_07",
+            "cardDefKey": "Carnage",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Carnage_07-4be93128c6cbf3e9ba7e9886aebe8b4695fb03ee05afe559d282027fbbafdfde.webp",
+            "url": "/cards/Carnage/Carnage_07/",
+            "imageComponents": {
+                "foregroundScreenUrl": null,
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Carnage%2FCarnage_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_07%2FCarnage+-+Fiona_Background_01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_07%2FCarnage+-+Fiona_Background_02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_07%2FCarnage_07_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 2,
+            "power": 2,
+            "variantLabel": "Fiona Hsieh",
+            "artVariantSourceDefKey": "Bundle",
+            "sourceLabel": "Bundle",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 17,
+                    "name": "Fiona Hsieh",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 17,
+                    "name": "Fiona Hsieh",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series1",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2023-06-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Carnage_08",
+            "cardDefKey": "Carnage",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Carnage_08-5e85d016ed037331216d3d0672ccefba1d0efc417b08288f52f94f3fc5146316.webp",
+            "url": "/cards/Carnage/Carnage_08/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_08%2FCarnage_08_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Carnage%2FCarnage_Logo.webp",
+                "isCompositeFoilMaskLayer2": true,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_08%2FCarnage+-+Carnage+%282022%29+%236_Background_01.webp",
+                            "scale": {
+                                "x": 0.95,
+                                "y": 0.95
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_08%2FCarnage+-+Carnage+%282022%29+%236_Background_02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.01,
+                        "y": 0.01
+                    },
+                    "scale": {
+                        "x": 0.92,
+                        "y": 0.92
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_08%2FCarnage_08_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 2,
+            "power": 2,
+            "variantLabel": "Conqueror",
+            "artVariantSourceDefKey": "SuperRareRarityPool",
+            "sourceLabel": "Super Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 260,
+                    "name": "Kunkka",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 260,
+                    "name": "Kunkka",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series1",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2023-07-04T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Carnage_09",
+            "cardDefKey": "Carnage",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Carnage_09-4d22d76f9068372ecd69aa9c2f6a0d85fb0105f55b705279da552e653cf2eb8a.webp",
+            "url": "/cards/Carnage/Carnage_09/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_09%2FCarnage_09_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Carnage%2FCarnage_Logo.webp",
+                "isCompositeFoilMaskLayer2": true,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_09%2FCarnage+-+Dan+Hipp_Background_01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_09%2FCarnage+-+Dan+Hipp_Background_02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": -0.018,
+                        "y": -0.036
+                    },
+                    "scale": {
+                        "x": 0.78,
+                        "y": 0.78
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_09%2FCarnage_09_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 2,
+            "power": 2,
+            "variantLabel": "Dan Hipp",
+            "artVariantSourceDefKey": "RareRarityPool",
+            "sourceLabel": "Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 125,
+                    "name": "Dan Hipp",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 125,
+                    "name": "Dan Hipp",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series1",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "2023-09-20T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "Carnage_10",
+            "cardDefKey": "Carnage",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/Carnage_10-7e404865e943a3d88717803cb85952d0c538fdb022c1e2e788a82ab2bc81b293.webp",
+            "url": "/cards/Carnage/Carnage_10/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_10%2FCarnage_10_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Carnage%2FCarnage_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_10%2FCarnage_10_Background01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage_10%2FCarnage_10_Background02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.03,
+                        "y": 0.03
+                    },
+                    "scale": {
+                        "x": 0.92,
+                        "y": 0.92
+                    },
+                    "override": {
+                        "layer": 1,
+                        "offset": {
+                            "x": -0.023,
+                            "y": -0.012
+                        },
+                        "scale": null,
+                        "objectFit": null,
+                        "rotate": null,
+                        "alpha": null
+                    }
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage_10%2FCarnage_10_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 2,
+            "power": 2,
+            "variantLabel": "In-Hyuk Lee",
+            "artVariantSourceDefKey": null,
+            "sourceLabel": "Unknown",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 199,
+                    "name": "In-Hyuk Lee",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 199,
+                    "name": "In-Hyuk Lee",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series1",
+            "abilityIds": [
+                1,
+                3,
+                17,
+                23
+            ],
+            "releaseDate": "9999-12-31T23:59:59.999999Z",
+            "isObtainable": false
+        }
+    ],
+    "displayImageUrl": "https://game-assets.snap.fan/card_variant_images/Carnage-a55f3c533f794a9b76093732471be216d84c89f178805970f92bb02eb5c127db.webp",
+    "displayVariant": {
+        "key": "Carnage",
+        "cardDefKey": "Carnage",
+        "imageUrl": "https://game-assets.snap.fan/card_variant_images/Carnage-a55f3c533f794a9b76093732471be216d84c89f178805970f92bb02eb5c127db.webp",
+        "url": "/cards/Carnage/Carnage/",
+        "imageComponents": {
+            "foregroundScreenUrl": null,
+            "renderForegroundOverPowerCost": true,
+            "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/Carnage%2FCarnage_Logo.webp",
+            "isCompositeFoilMaskLayer2": false,
+            "backgroundMaterial": {
+                "layers": [
+                    {
+                        "layerNumber": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage%2FCarnage_Background02.webp",
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": -0.03
+                        },
+                        "alpha": 1.0,
+                        "angle": 0.0,
+                        "override": null
+                    },
+                    {
+                        "layerNumber": 2,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FCarnage%2FCarnage_Background01.webp",
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "alpha": 1.0,
+                        "angle": 0.0,
+                        "override": null
+                    }
+                ],
+                "angle": 0.0,
+                "offset": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "scale": {
+                    "x": 0.97,
+                    "y": 0.97
+                },
+                "override": null
+            },
+            "foregroundLayers": [
+                {
+                    "layerNum": 1,
+                    "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/Carnage%2FCarnage_Foreground.webp"
+                }
+            ]
+        },
+        "cost": 2,
+        "power": 2,
+        "variantLabel": null,
+        "artVariantSourceDefKey": null,
+        "sourceLabel": "Series 1",
+        "isCardDefDisplayVariant": true,
+        "artists": [
+            {
+                "id": 24,
+                "name": "Ryan Benjamin",
+                "artistType": "Artist"
+            },
+            {
+                "id": 38,
+                "name": "Ryan Kinnaird",
+                "artistType": "Colorist"
+            }
+        ],
+        "cardDefSeries": "Series1",
+        "abilityIds": [
+            1,
+            3,
+            17,
+            23
+        ],
+        "releaseDate": null,
+        "isObtainable": true
+    },
+    "isCollectable": true,
+    "isReleased": true,
+    "abilities": [
+        {
+            "id": 1,
+            "name": "On Reveal",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "name": "Destroy",
+            "description": ""
+        },
+        {
+            "id": 17,
+            "name": "Power On Destroy",
+            "description": ""
+        },
+        {
+            "id": 23,
+            "name": "Increase Power",
+            "description": ""
+        }
+    ],
+    "category": "Spider-Villains",
+    "primaryColor": "#ff1a1a",
+    "secondaryColor": "#000000",
+    "ringColor": "#ff1212",
+    "startsInHand": false,
+    "turnDrawn": null,
+    "cardsShuffledIntoDeck": [],
+    "seriesDefKey": "Series1",
+    "seriesLabel": "Series 1 (Collection Level 18-214)",
+    "shortSeriesLabel": "Series 1"
+}

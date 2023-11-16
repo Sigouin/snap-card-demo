@@ -1,10 +1,17 @@
 .card-container {
   max-width: 100%;
-  width: 388px;
   position: relative;
 }
 
 .card {
   filter: drop-shadow(5px 5px 5px rgba(0,0,0,.25));
+  position: relative;
+  width: 500px;
+  height: 500px;
+}
+
+.card-piece {
   width: 100%;
+  position: absolute;
+  inset: 0;
 }

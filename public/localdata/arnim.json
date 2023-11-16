@@ -1,0 +1,1013 @@
+{
+    "key": "ArnimZola",
+    "url": "/cards/ArnimZola/",
+    "power": 0,
+    "cost": 6,
+    "name": "Arnim Zola",
+    "description": "<b>On Reveal:</b> Destroy a random friendly card here. Add copies of it to the other locations.",
+    "variants": [
+        {
+            "key": "ArnimZola",
+            "cardDefKey": "ArnimZola",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/ArnimZola-51223ea8507c08346c3d754d762e0e4ac3202b1eb1f75a5611b996c6e83a6995.webp",
+            "url": "/cards/ArnimZola/ArnimZola/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola%2FArnimZola_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/ArnimZola%2FArnimZola_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola%2FArnimZola_Background01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola%2FArnimZola_Background02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.0,
+                        "y": -0.1
+                    },
+                    "scale": {
+                        "x": 1.1,
+                        "y": 1.1
+                    },
+                    "override": {
+                        "layer": 1,
+                        "offset": {
+                            "x": 0.05,
+                            "y": -0.07
+                        },
+                        "scale": null,
+                        "objectFit": null,
+                        "rotate": null,
+                        "alpha": null
+                    }
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola%2FArnimZola_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 6,
+            "power": 0,
+            "variantLabel": null,
+            "artVariantSourceDefKey": null,
+            "sourceLabel": "Series 3",
+            "isCardDefDisplayVariant": true,
+            "artists": [
+                {
+                    "id": 38,
+                    "name": "Ryan Kinnaird",
+                    "artistType": "Colorist"
+                },
+                {
+                    "id": 73,
+                    "name": "Roberto Di Salvo",
+                    "artistType": "Artist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                4,
+                25,
+                54
+            ],
+            "releaseDate": null,
+            "isObtainable": true
+        },
+        {
+            "key": "ArnimZola_01",
+            "cardDefKey": "ArnimZola",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/ArnimZola_01-2430de401de4068a1f7bc6b8b5143170ea47644a5d6e9ec1161b29a2c1e687e4.webp",
+            "url": "/cards/ArnimZola/ArnimZola_01/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_01%2FArnimZola_01_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/ArnimZola%2FArnimZola_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_01%2FArnimZola_01_Background_01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_01%2FArnimZola_01_Background_02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_01%2FArnimZola_01_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 6,
+            "power": 0,
+            "variantLabel": "Pixel",
+            "artVariantSourceDefKey": "RareRarityPool",
+            "sourceLabel": "Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 161,
+                    "name": "G-Angle",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 161,
+                    "name": "G-Angle",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                4,
+                25,
+                54
+            ],
+            "releaseDate": "2023-02-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "ArnimZola_02",
+            "cardDefKey": "ArnimZola",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/ArnimZola_02-92801fe1dc7d97b694daacae945687c5b0d522cba0f54e1262948d58159519e5.webp",
+            "url": "/cards/ArnimZola/ArnimZola_02/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_02%2FArnimZola_02_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/ArnimZola%2FArnimZola_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_02%2FArnimZola_02_Background01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_02%2FArnimZola_02_Background02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": -0.15,
+                        "y": 0.0
+                    },
+                    "scale": {
+                        "x": 1.34,
+                        "y": 1.05
+                    },
+                    "override": {
+                        "layer": 1,
+                        "offset": {
+                            "x": -0.02,
+                            "y": 0.02
+                        },
+                        "scale": null,
+                        "objectFit": null,
+                        "rotate": null,
+                        "alpha": null
+                    }
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_02%2FArnimZola_02_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 6,
+            "power": 0,
+            "variantLabel": "Earth-1610",
+            "artVariantSourceDefKey": "RareRarityPool",
+            "sourceLabel": "Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 38,
+                    "name": "Ryan Kinnaird",
+                    "artistType": "Colorist"
+                },
+                {
+                    "id": 186,
+                    "name": "Eric Guerrero",
+                    "artistType": "Artist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                4,
+                25,
+                54
+            ],
+            "releaseDate": "2022-05-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "ArnimZola_03",
+            "cardDefKey": "ArnimZola",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/ArnimZola_03-bc3053fdf814868ae99964f0a011c1932e856d26de182b23ced76088035be52a.webp",
+            "url": "/cards/ArnimZola/ArnimZola_03/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_03%2FArnimZola_03_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/ArnimZola%2FArnimZola_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_03%2FArnimZola_03_Background01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_03%2FArnimZola_03_Background02.webp",
+                            "scale": {
+                                "x": 1.5,
+                                "y": 1.5
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_03%2FArnimZola_03_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 6,
+            "power": 0,
+            "variantLabel": "Civil War",
+            "artVariantSourceDefKey": "RareRarityPool",
+            "sourceLabel": "Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 38,
+                    "name": "Ryan Kinnaird",
+                    "artistType": "Colorist"
+                },
+                {
+                    "id": 189,
+                    "name": "Ivan Shavrin",
+                    "artistType": "Artist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                4,
+                25,
+                54
+            ],
+            "releaseDate": "2022-09-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "ArnimZola_04",
+            "cardDefKey": "ArnimZola",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/ArnimZola_04-5425fba996cf6760a3d6e0b284ad1f88e7d476cb1224848f4f3af93221b58305.webp",
+            "url": "/cards/ArnimZola/ArnimZola_04/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_04%2FArnimZola_04_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/ArnimZola%2FArnimZola_Logo.webp",
+                "isCompositeFoilMaskLayer2": true,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_04%2FArnim+Zola+-+Chibi_Background_01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_04%2FArnim+Zola+-+Chibi_Background_02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.0,
+                        "y": -0.06
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_04%2FArnimZola_04_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 6,
+            "power": 0,
+            "variantLabel": "Chibi",
+            "artVariantSourceDefKey": "RareRarityPool",
+            "sourceLabel": "Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 161,
+                    "name": "G-Angle",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 161,
+                    "name": "G-Angle",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                4,
+                25,
+                54
+            ],
+            "releaseDate": "2022-05-07T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "ArnimZola_05",
+            "cardDefKey": "ArnimZola",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/ArnimZola_05-7a45813175a91f167207e5bdb3a2e8244a1f85503764ddb88700ac50d165a754.webp",
+            "url": "/cards/ArnimZola/ArnimZola_05/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_05%2FArnimZola_05_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/ArnimZola%2FArnimZola_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_05%2FArnimZola_05_Backgroud01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_05%2FArnimZola_05_Backgroud02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.02
+                    },
+                    "scale": {
+                        "x": 0.95,
+                        "y": 0.95
+                    },
+                    "override": {
+                        "layer": 1,
+                        "offset": {
+                            "x": -0.02,
+                            "y": -0.01
+                        },
+                        "scale": null,
+                        "objectFit": null,
+                        "rotate": null,
+                        "alpha": null
+                    }
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_05%2FArnimZola_05_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 6,
+            "power": 0,
+            "variantLabel": "3099",
+            "artVariantSourceDefKey": null,
+            "sourceLabel": "Unknown",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 38,
+                    "name": "Ryan Kinnaird",
+                    "artistType": "Colorist"
+                },
+                {
+                    "id": 119,
+                    "name": "Giovanni Lorusso",
+                    "artistType": "Artist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                4,
+                25,
+                54
+            ],
+            "releaseDate": "9999-12-31T23:59:59.999999Z",
+            "isObtainable": false
+        },
+        {
+            "key": "ArnimZola_06",
+            "cardDefKey": "ArnimZola",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/ArnimZola_06-b5d529fe20552f31bb5dd7b23f3bab627e8ce4b4d77e6dbaedf44a9aae7b3c5d.webp",
+            "url": "/cards/ArnimZola/ArnimZola_06/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_06%2FArnimZola_06_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/ArnimZola%2FArnimZola_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_06%2FArnimZola_06_Background01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_06%2FArnimZola_06_Background02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.05,
+                        "y": -0.05
+                    },
+                    "scale": {
+                        "x": 0.9,
+                        "y": 0.9
+                    },
+                    "override": {
+                        "layer": 1,
+                        "offset": {
+                            "x": -0.01,
+                            "y": -0.1
+                        },
+                        "scale": null,
+                        "objectFit": null,
+                        "rotate": null,
+                        "alpha": null
+                    }
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_06%2FArnimZola_06_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 6,
+            "power": 0,
+            "variantLabel": "Dan Hipp",
+            "artVariantSourceDefKey": "RareRarityPool",
+            "sourceLabel": "Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 125,
+                    "name": "Dan Hipp",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 125,
+                    "name": "Dan Hipp",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                4,
+                25,
+                54
+            ],
+            "releaseDate": "2023-08-29T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "ArnimZola_07",
+            "cardDefKey": "ArnimZola",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/ArnimZola_07-f5cf9db5842227d78faedba86d65bfdcd8376f1b02183439bf95c40ff3527e8b.webp",
+            "url": "/cards/ArnimZola/ArnimZola_07/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_07%2FArnimZola_07_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/ArnimZola%2FArnimZola_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_07%2FArnim_Zola_07_Background01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_07%2FArnim_Zola_07_Background02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.033,
+                        "y": 0.018
+                    },
+                    "scale": {
+                        "x": 0.94,
+                        "y": 0.94
+                    },
+                    "override": {
+                        "layer": 1,
+                        "offset": {
+                            "x": 0,
+                            "y": -0.012
+                        },
+                        "scale": {
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        "objectFit": null,
+                        "rotate": null,
+                        "alpha": null
+                    }
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_07%2FArnimZola_07_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 6,
+            "power": 0,
+            "variantLabel": "Combo Break",
+            "artVariantSourceDefKey": "RareRarityPool",
+            "sourceLabel": "Rare Pool",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 78,
+                    "name": "Combo Break",
+                    "artistType": "Artist"
+                },
+                {
+                    "id": 78,
+                    "name": "Combo Break",
+                    "artistType": "Colorist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                4,
+                25,
+                54
+            ],
+            "releaseDate": "2023-10-27T19:00:00Z",
+            "isObtainable": true
+        },
+        {
+            "key": "ArnimZola_08",
+            "cardDefKey": "ArnimZola",
+            "imageUrl": "https://game-assets.snap.fan/card_variant_images/ArnimZola_08-1de6882bd5a872b6b7824da524b76b9ceb9892a64cacb5c15110fa97850ce6e6.webp",
+            "url": "/cards/ArnimZola/ArnimZola_08/",
+            "imageComponents": {
+                "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_08%2FArnimZola_08_ForegroundScreen.webp",
+                "renderForegroundOverPowerCost": true,
+                "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/ArnimZola%2FArnimZola_Logo.webp",
+                "isCompositeFoilMaskLayer2": false,
+                "backgroundMaterial": {
+                    "layers": [
+                        {
+                            "layerNumber": 1,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_08%2FArnim+Zola+-+Gameboy+Costume_Background_01.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        },
+                        {
+                            "layerNumber": 2,
+                            "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola_08%2FArnim+Zola+-+Gameboy+Costume_Background_02.webp",
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0
+                            },
+                            "offset": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "alpha": 1.0,
+                            "angle": 0.0,
+                            "override": null
+                        }
+                    ],
+                    "angle": 0.0,
+                    "offset": {
+                        "x": 0.01,
+                        "y": 0.02
+                    },
+                    "scale": {
+                        "x": 0.9,
+                        "y": 0.9
+                    },
+                    "override": null
+                },
+                "foregroundLayers": [
+                    {
+                        "layerNum": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola_08%2FArnimZola_08_Foreground.webp"
+                    }
+                ]
+            },
+            "cost": 6,
+            "power": 0,
+            "variantLabel": "Costume Party",
+            "artVariantSourceDefKey": "Bundle",
+            "sourceLabel": "Bundle",
+            "isCardDefDisplayVariant": false,
+            "artists": [
+                {
+                    "id": 38,
+                    "name": "Ryan Kinnaird",
+                    "artistType": "Colorist"
+                },
+                {
+                    "id": 206,
+                    "name": "Eduardo Mello",
+                    "artistType": "Artist"
+                }
+            ],
+            "cardDefSeries": "Series3",
+            "abilityIds": [
+                1,
+                3,
+                4,
+                25,
+                54
+            ],
+            "releaseDate": "2023-10-09T19:00:00Z",
+            "isObtainable": true
+        }
+    ],
+    "displayImageUrl": "https://game-assets.snap.fan/card_variant_images/ArnimZola-51223ea8507c08346c3d754d762e0e4ac3202b1eb1f75a5611b996c6e83a6995.webp",
+    "displayVariant": {
+        "key": "ArnimZola",
+        "cardDefKey": "ArnimZola",
+        "imageUrl": "https://game-assets.snap.fan/card_variant_images/ArnimZola-51223ea8507c08346c3d754d762e0e4ac3202b1eb1f75a5611b996c6e83a6995.webp",
+        "url": "/cards/ArnimZola/ArnimZola/",
+        "imageComponents": {
+            "foregroundScreenUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola%2FArnimZola_ForegroundScreen.webp",
+            "renderForegroundOverPowerCost": true,
+            "logoUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Logos/ArnimZola%2FArnimZola_Logo.webp",
+            "isCompositeFoilMaskLayer2": false,
+            "backgroundMaterial": {
+                "layers": [
+                    {
+                        "layerNumber": 1,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola%2FArnimZola_Background01.webp",
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "alpha": 1.0,
+                        "angle": 0.0,
+                        "override": null
+                    },
+                    {
+                        "layerNumber": 2,
+                        "textureUrl": "https://game-assets.snap.fan/processed_source_images/Materials/Cards%2FArnimZola%2FArnimZola_Background02.webp",
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "alpha": 1.0,
+                        "angle": 0.0,
+                        "override": null
+                    }
+                ],
+                "angle": 0.0,
+                "offset": {
+                    "x": 0.0,
+                    "y": -0.1
+                },
+                "scale": {
+                    "x": 1.1,
+                    "y": 1.1
+                },
+                "override": {
+                    "layer": 1,
+                    "offset": {
+                        "x": 0.05,
+                        "y": -0.07
+                    },
+                    "scale": null,
+                    "objectFit": null,
+                    "rotate": null,
+                    "alpha": null
+                }
+            },
+            "foregroundLayers": [
+                {
+                    "layerNum": 1,
+                    "textureUrl": "https://game-assets.snap.fan/processed_source_images/Baked/Cards/ArnimZola%2FArnimZola_Foreground.webp"
+                }
+            ]
+        },
+        "cost": 6,
+        "power": 0,
+        "variantLabel": null,
+        "artVariantSourceDefKey": null,
+        "sourceLabel": "Series 3",
+        "isCardDefDisplayVariant": true,
+        "artists": [
+            {
+                "id": 38,
+                "name": "Ryan Kinnaird",
+                "artistType": "Colorist"
+            },
+            {
+                "id": 73,
+                "name": "Roberto Di Salvo",
+                "artistType": "Artist"
+            }
+        ],
+        "cardDefSeries": "Series3",
+        "abilityIds": [
+            1,
+            3,
+            4,
+            25,
+            54
+        ],
+        "releaseDate": null,
+        "isObtainable": true
+    },
+    "isCollectable": true,
+    "isReleased": true,
+    "abilities": [
+        {
+            "id": 1,
+            "name": "On Reveal",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "name": "Destroy",
+            "description": ""
+        },
+        {
+            "id": 4,
+            "name": "Add Card At Location",
+            "description": ""
+        },
+        {
+            "id": 25,
+            "name": "Duplicate Card",
+            "description": ""
+        },
+        {
+            "id": 54,
+            "name": "Add Card",
+            "description": ""
+        }
+    ],
+    "category": "HYDRA",
+    "primaryColor": "#891eff",
+    "secondaryColor": "#aea7ff",
+    "ringColor": "#ffb432",
+    "startsInHand": false,
+    "turnDrawn": null,
+    "cardsShuffledIntoDeck": [],
+    "seriesDefKey": "Series3",
+    "seriesLabel": "Series 3 (Collection Level 486+)",
+    "shortSeriesLabel": "Series 3"
+}
